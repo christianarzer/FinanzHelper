@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FinanzHelper</string>
+    <string name="navigation_drawer_open">Offen</string>
+    <string name="navigation_drawer_close">Geschlossen</string>
+    <string name="sign_up"><![CDATA[Sign up\u0020\u0020\u0020 >]]></string>
+    <string name="dont_have_an_account">Don\'t have an account?</string>
+    <string name="sign_in">Sign in</string>
+    <string name="your_password">yourpassword</string>
+    <string name="email_example">yourname@example.com</string>
+    <string name="email">E-Mail</string>
+    <string name="password">Password</string>
+    <string name="password_lower_case">password</string>
+    <string-array name="navigation_drawer_items_array">
+        <item>Connect</item>
+        <item>Fixtures</item>
+        <item>Table</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522093836562",
+    "project_id": "finanzhelper",
+    "storage_bucket": "finanzhelper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522093836562:android:fc61a3a5f533546bb69bcb",
+        "android_client_info": {
+          "package_name": "com.example.finanzhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522093836562-ncmd4qn2d8vvfg9infsdp23076mhllsd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCebqx3aKik_gA1PiodHErZk8Pj20XYar4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522093836562-ncmd4qn2d8vvfg9infsdp23076mhllsd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

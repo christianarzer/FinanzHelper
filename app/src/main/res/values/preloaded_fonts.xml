@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/anton</item>
+        <item>@font/montserrat</item>
+        <item>@font/montserrat_bold</item>
+        <item>@font/nunito_bold</item>
+        <item>@font/open_sans_bold</item>
+        <item>@font/poppins_bold</item>
+        <item>@font/roboto_thin_italic</item>
+        <item>@font/rubik_bold</item>
+        <item>@font/rubik_medium</item>
+        <item>@font/source_sans_pro_bold</item>
+        <item>@font/ubuntu_bold</item>
+    </array>
+</resources>
